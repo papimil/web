@@ -117,12 +117,11 @@ Este proyecto está bajo la licencia MIT. Ver `LICENSE` para más detalles.
 ## 👨‍💻 Desarrollador
 
 **Papiweb Desarrollos**
-- 🌐 Website: [papiweb.com](https://papiweb.com)
-- 📧 Email: contacto@papiweb.com
-- 🐦 Twitter: [@papiweb_dev](https://twitter.com/papiweb_dev)
-
+- 🌐 Website: [papiweb.com](https://github.io/papilink)
+- 📧 Email: mgenialive@gmail.com
+- 🐦 Telf:1165728549
 ## 🌟 ¿Te gusta el proyecto?
-
+link.mercadopago.com.ar/papiweb
 ¡Dale una ⭐ si te diviertes jugando!
 
 ---
